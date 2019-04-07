@@ -1,0 +1,1 @@
+pyuic5 -o dict_ui.py dict_ui.ui
